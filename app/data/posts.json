@@ -1,0 +1,82 @@
+[
+  {
+    "index": 1,
+    "slug": "fotograficzna-podroz",
+    "title": "Fotograficzna podróż",
+    "date": "19.06.2019",
+    "category": "photos",
+    "categoryName": "Fotografia",
+    "image": "https://images.pexels.com/photos/1578750/pexels-photo-1578750.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "excerpt": "Witajcie, poszukiwacze piękna i chwil! Jestem Grace i z radością dzielę się z Wami moim fotograficznym światem...",
+    "content": [
+      "Witajcie, poszukiwacze piękna i chwil. Jestem Grace i z radością dzielę się z Wami moim fotograficznym światem.",
+      "Las o świcie ma zupełnie inny charakter niż w południe. Światło pada miękko między pniami, a rosa jeszcze trzyma się na liściach. To właśnie te pierwsze godziny są dla mnie najcenniejsze.",
+      "Nie szukam idealnych kadrów. Szukam tego, co się dzieje naprawdę — gałąź, która się kołysze, cień, który się przesuwa, ptak, który na chwilę siada i znowu odlatuje.",
+      "Fotografia w lesie uczy cierpliwości. Nie da się nic przyspieszyć. Trzeba stanąć, poczekać i pozwolić, żeby moment sam przyszedł."
+    ]
+  },
+  {
+    "index": 2,
+    "slug": "soczewka-na-swiat",
+    "title": "Soczewka na świat",
+    "date": "19.06.2019",
+    "category": "photos",
+    "categoryName": "Fotografia",
+    "image": "https://images.pexels.com/photos/167699/pexels-photo-167699.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "excerpt": "Hej, drodzy podróżnicy i entuzjaści fotografii! Z tej strony Grace, gotowa zabrać Was w podróż przez obiektyw...",
+    "content": [
+      "Hej, drodzy podróżnicy i entuzjaści fotografii. Z tej strony Grace, gotowa zabrać Was w podróż przez obiektyw.",
+      "Każde zdjęcie to wybór. Co zostawić w kadrze, a co odciąć. W lesie ten wybór jest szczególnie trudny, bo wszystko wydaje się ważne.",
+      "Uczę się patrzeć wolniej. Nie klikać od razu. Najpierw stanąć, oddychać, zobaczyć, co się naprawdę dzieje.",
+      "Soczewka nie kłamie, ale też nie mówi całej prawdy. Pokazuje tylko to, na co skierujesz uwagę. I to jest właśnie najciekawsze."
+    ]
+  },
+  {
+    "index": 3,
+    "slug": "dzien-w-lesie",
+    "title": "Dzień w lesie",
+    "date": "12.05.2019",
+    "category": "walks",
+    "categoryName": "Spacery",
+    "image": "https://images.pexels.com/photos/1028225/pexels-photo-1028225.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "excerpt": "Poranny spacer wśród drzew. Każdy krok to rozmowa z ziemią...",
+    "content": [
+      "Poranny spacer wśród drzew. Każdy krok to rozmowa z ziemią.",
+      "Wychodzę wcześnie, zanim las się obudzi do końca. Mgła jeszcze trzyma się nisko, a ścieżka jest mokra od rosy.",
+      "Nie mam celu. Nie idę do żadnego punktu. Po prostu idę i słucham, jak las oddycha.",
+      "Po godzinie wracam inną drogą. To samo miejsce, a zupełnie inne światło. Tak działa las — nigdy nie jest taki sam dwa razy."
+    ]
+  },
+  {
+    "index": 4,
+    "slug": "cisza-miedzy-drzewami",
+    "title": "Cisza między drzewami",
+    "date": "03.04.2019",
+    "category": "reflections",
+    "categoryName": "Refleksje",
+    "image": "https://images.pexels.com/photos/1133957/pexels-photo-1133957.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "excerpt": "W lesie uczysz się słuchać tego, co nie zostało powiedziane...",
+    "content": [
+      "W lesie uczysz się słuchać tego, co nie zostało powiedziane.",
+      "Cisza nie jest brakiem dźwięku. W lesie zawsze coś szumi, coś skrzypi, coś spada. Ale jest też przestrzeń między tymi dźwiękami — i to właśnie ona zostaje.",
+      "Siedzę na zwalonym pniu i nic nie robię. Po jakimś czasie przestaję myśleć o tym, co mam do zrobienia. Zostaje tylko oddech i to, co jest wokół.",
+      "Taka cisza nie potrzebuje wyjaśnień. Po prostu jest."
+    ]
+  },
+  {
+    "index": 5,
+    "slug": "korzenie-i-skrzydla",
+    "title": "Korzenie i skrzydła",
+    "date": "18.03.2019",
+    "category": "reflections",
+    "categoryName": "Refleksje",
+    "image": "https://images.pexels.com/photos/3408744/pexels-photo-3408744.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "excerpt": "Tak jak drzewo trzyma się ziemi i sięga do nieba, tak i my...",
+    "content": [
+      "Tak jak drzewo trzyma się ziemi i sięga do nieba, tak i my.",
+      "Korzenie dają stabilność. Bez nich nic nie stoi. Ale same korzenie nie wystarczą — trzeba też tego, co rośnie w górę, co sięga światła.",
+      "W lesie widać to wyraźnie. Drzewa, które mają głębokie korzenie, lepiej znoszą wiatr. Te, które rosną tylko w górę, łatwiej się łamią.",
+      "Może dlatego tak dobrze się tu czuję. Bo las przypomina, że można być zakorzenionym i jednocześnie wolnym."
+    ]
+  }
+]
