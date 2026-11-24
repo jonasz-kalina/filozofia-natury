@@ -1,7 +1,7 @@
 <template>
   <section class="content-image left">
     <div class="content-box">
-      <h2>I'm<br>here..</h2>
+      <h2>I'm<br>here...</h2>
 
       <p>
         Greetings, dear souls! I am Sylvan, your guide through the
