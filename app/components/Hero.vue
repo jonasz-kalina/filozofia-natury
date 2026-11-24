@@ -43,6 +43,7 @@
 .hero-content {
   position: relative;
   z-index: 2;
+  padding: 0 20px;
 }
 
 .hero-content h1 {
@@ -64,5 +65,45 @@
   width: 100%;
   height: 140px;
   z-index: 2;
+}
+
+/* MOBILE */
+
+@media (max-width: 700px) {
+  .hero-content h1 {
+    font-size: 6rem;
+    line-height: 0.95;
+  }
+
+  .hero-content p {
+    font-size: 1rem;
+    margin-top: 20px;
+  }
+
+  .skew {
+    height: 100px;
+  }
+}
+
+/* SMALL MOBILE */
+
+@media (max-width: 380px) {
+  .hero-content {
+    padding: 0 16px;
+  }
+
+  .hero-content h1 {
+    font-size: 4.8rem;
+    line-height: 0.92;
+  }
+
+  .hero-content p {
+    font-size: 0.95rem;
+    margin-top: 16px;
+  }
+
+  .skew {
+    height: 80px;
+  }
 }
 </style>
